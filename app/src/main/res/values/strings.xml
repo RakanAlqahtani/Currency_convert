@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency convert</string>
+
+    <string-array name="currency">
+        <item>sar</item>
+        <item>usd</item>
+        <item>aud</item>
+        <item>inr</item>
+        <item>jpy</item>
+
+    </string-array>
+</resources>
